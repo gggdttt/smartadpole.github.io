@@ -61,6 +61,8 @@ TOOL:
         url:    /assets/category/work/tool/work.html
       - title:  博客
         url:    /assets/category/work/tool/blog.html
+      - title:  文献管理
+        url:    /assets/category/work/tool/paper.html
       - title:  Office
         url:    /assets/category/work/tool/office.html
       - title:  QT

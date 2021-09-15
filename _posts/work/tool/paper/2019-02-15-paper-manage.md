@@ -5,7 +5,7 @@ date:   2019-02-15 10:08:40 +0800
 key: paper-manage-20190215
 aside:
   toc: true
-category: [tool, worktool]
+category: [tool, paper]
 ---
 
 <img src="/assets/images/tools/work/paper_manage.jpeg" height="500">    

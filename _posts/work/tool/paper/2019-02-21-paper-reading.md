@@ -5,7 +5,7 @@ date:   2019-02-21 10:08:40 +0800
 key: paper-reading-20190221
 aside:
   toc: true
-category: [tool, worktool]
+category: [tool, paper]
 ---
 
 ## 一、 入门

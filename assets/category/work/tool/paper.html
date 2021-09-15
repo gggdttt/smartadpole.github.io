@@ -1,0 +1,23 @@
+---
+layout: articles
+titles:
+    en:       Paper Tools
+    zh:       文献管理工具
+    zh-Hans:  文献管理工具
+    zh-Hant:  文献管理工具
+sidebar:
+    nav: TOOL
+---
+
+
+<ul>
+    {% for cat in site.categories %}
+        {% if cat[0] == "paper" %}
+        {% for post in cat[1] %}
+        {{post.date | date:"%d/%m/%Y"}}
+        <font size="3"><a href={{post.url}} title={{ cat[0] }}>{{post.title}}</a></font>
+        <br>
+        {% endfor %}
+        {% endif %}
+    {% endfor %}
+</ul>
